@@ -1,0 +1,16 @@
+path: /content/data/
+train: train/images  # train images (relative to 'path')
+val: valid/images  # val images (relative to 'path')
+
+kpt_shape: [4, 3]
+flip_idx: [1, 0, 3, 2]
+
+nc: 1
+names: ['Plate']
+
+roboflow:
+  workspace: anpr-ljho6
+  project: numberplate-vhhe2
+  version: 5
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/anpr-ljho6/numberplate-vhhe2/dataset/5
