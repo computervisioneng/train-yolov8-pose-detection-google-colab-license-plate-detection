@@ -1,4 +1,4 @@
-# train-yolov8-pose-detection-google-colab
+#  train-yolov8-pose-detection-google-colab-license-plate-detection
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=eFmLMXDE36I">
