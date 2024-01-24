@@ -9,4 +9,4 @@
 
 ## data
 
-You can download the same dataset I used in this tutorial [here](https://universe.roboflow.com/anpr-ljho6/numberplate-vhhe2/dataset/5).
+You can download the same dataset I used in this tutorial [here](https://drive.google.com/drive/folders/14OQHsln9qiEYzS61YSt9tSurQfgFLVEJ?usp=drive_link).
